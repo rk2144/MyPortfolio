@@ -1,0 +1,13 @@
+/* Skills.css */
+.skills {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.skills span {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+}

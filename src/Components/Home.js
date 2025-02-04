@@ -1,9 +1,14 @@
 import React from 'react';
+import Introduction from './Intro/Intro';
 
-export default function Home() {
+function Home() {
   return (
-    <div>
-      dgfjsdoijvg
-    </div>
+    <section>
+      <Introduction/>
+      <h1>Welcome to My Portfolio</h1>
+      <p>Explore my skills, projects, and more!</p>
+    </section>
   );
 }
+
+export default Home;
